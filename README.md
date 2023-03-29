@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./images/favicon-32x32.png" alt="frontendmentor" width="80">
+  <h1>Ezefran</h1>
 
   <h2 align="center">Frontend Mentor - Interactive rating component</h2>
 
