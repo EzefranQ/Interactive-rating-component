@@ -25,11 +25,20 @@ You can use any tools you like to help you complete the challenge. So if you've 
 </h5>
 <h5>
 Your users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
+<ul>
+    <li>
+    View the optimal layout for the app depending on their device's screen size
+    </li>
+    <li>
 - See hover states for all interactive elements on the page
+    </li>
+    <li>
 - Select and submit a number rating
+    </li>
+    <li>
 - See the "Thank you" card state after submitting a rating
+    </li>
+</ul>
 </h5>
 </div>
 
