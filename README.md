@@ -18,27 +18,7 @@
 The challenge
 </h1>
 <h5>
-Your challenge is to build out this interactive rating component and get it looking as close to the design as possible.
-</h5>
-<h5>
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-</h5>
-<h5>
-Your users should be able to:
-<ul>
-    <li>
-    View the optimal layout for the app depending on their device's screen size
-    </li>
-    <li>
-- See hover states for all interactive elements on the page
-    </li>
-    <li>
-- Select and submit a number rating
-    </li>
-    <li>
-- See the "Thank you" card state after submitting a rating
-    </li>
-</ul>
+The challenge is to build out this interactive rating component and get it looking as close to the design as possible.
 </h5>
 </div>
 
@@ -48,3 +28,4 @@ Building  project
 </h1>
 <h3>I Build it using vanilla HTML5, CSS3 & JavaScript</h3>
 </div>
+
